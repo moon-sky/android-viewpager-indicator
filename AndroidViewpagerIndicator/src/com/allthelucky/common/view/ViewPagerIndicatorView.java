@@ -1,4 +1,4 @@
-package com.app.library.common.view;
+package com.allthelucky.common.view;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -14,7 +14,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.app.library.common.view.TabIndicatorView.OnIndicateChangeListener;
+import com.allthelucky.common.view.TabIndicatorView.OnIndicateChangeListener;
 
 /**
  * 文字切换标签+ViewPager内容区控件

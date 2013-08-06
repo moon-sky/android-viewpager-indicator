@@ -1,4 +1,4 @@
-package com.app.library.common.view.sample;
+package com.allthelucky.common.view.sample;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,8 +8,8 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 
-import com.app.library.common.view.R;
-import com.app.library.common.view.ViewPagerIndicatorView;
+import com.allthelucky.common.view.R;
+import com.allthelucky.common.view.ViewPagerIndicatorView;
 
 /**
  * 使用示例

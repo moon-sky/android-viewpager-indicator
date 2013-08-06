@@ -1,4 +1,4 @@
-package com.app.library.common.view;
+package com.allthelucky.common.view;
 
 import java.util.ArrayList;
 import java.util.Arrays;
