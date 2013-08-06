@@ -8,7 +8,7 @@ Usage:
 
 1.in android layout file:
 
-        <com.app.library.common.view.ViewPagerIndicatorView
+        <com.allthelucky.common.view.ViewPagerIndicatorView
         android:id="@+id/viewpager_indicator_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
