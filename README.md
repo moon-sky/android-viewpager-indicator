@@ -1,7 +1,7 @@
 Android ViewPagerIndicatorView
 ===========================
 
-An android tab indicator with viewpager easy to use!
+Android tab indicator with viewpager easy to use!
 
 Usage:
 --------------------------
@@ -25,8 +25,8 @@ Usage:
 Screenshot:
 --------------------------
 
-![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcuta.jpg)
+![ScreenShot](https://raw.github.com/winfirm/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcuta.jpg)
 
-![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutb.jpg)
+![ScreenShot](https://raw.github.com/winfirm/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutb.jpg)
 
-![ScreenShot](https://raw.github.com/allthelucky/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutc.jpg)
+![ScreenShot](https://raw.github.com/winfirm/android-viewpager-indicator/master/AndroidViewpagerIndicator/screenshot/shortcutc.jpg)
