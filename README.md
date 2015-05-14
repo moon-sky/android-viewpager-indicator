@@ -16,7 +16,7 @@ Usage:
 
 2.set ViewPagerIndicatorView in java code:
 
-        ViewPagerIndicatorView viewPagerIndicatorView; = (ViewPagerIndicatorView) findViewById(R.id.viewpager_indicator_view);
+        ViewPagerIndicatorView viewPagerIndicatorView = (ViewPagerIndicatorView) findViewById(R.id.viewpager_indicator_view);
         final Map<String, View> map = new HashMap<String, View>();
         map.put("TAB1", LayoutInflater.from(this).inflate(R.layout.activity_sample_pager_0, null));
         map.put("TAB2", LayoutInflater.from(this).inflate(R.layout.activity_sample_pager_1, null));
